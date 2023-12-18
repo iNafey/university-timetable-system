@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BIBLIOGRAPHY>
+
+    <ARTICLE>
+        <AUTHOR>Michael Adams</AUTHOR>
+        <AUTHOR>Arthur H. M. ter Hofstede</AUTHOR>
+        <AUTHOR>David Edmond</AUTHOR>
+        <AUTHOR>Wil M. P. van der Aalst</AUTHOR>
+        <TITLE>Worklets: A service-oriented implementation of dynamic flexibility in workflows</TITLE>
+        <PUBLISHED_YR>2006</PUBLISHED_YR>
+        <START_PAGE>291</START_PAGE>
+        <END_PAGE>308</END_PAGE>
+        <JOURNAL>Lecture Notes in Computer Science</JOURNAL>
+        <VOLUME>4275</VOLUME>
+        <PUBLISHER>Springer</PUBLISHER>
+    </ARTICLE>
+
+    <BOOK>
+        <AUTHOR>G. Alonso</AUTHOR>
+        <AUTHOR>F. Casati</AUTHOR>
+        <AUTHOR>H. Kuno</AUTHOR>
+        <AUTHOR>V. Machiraju</AUTHOR>
+        <TITLE>Web Services: Concepts, Architecture and Applications</TITLE>
+        <PUBLISHEDYR>2004</PUBLISHEDYR>
+        <PUBLISHER>Springer Verlag</PUBLISHER>
+    </BOOK>
+
+    <ARTICLE>
+        <AUTHOR>H. Boley</AUTHOR>
+        <AUTHOR>S. Tabet</AUTHOR>
+        <AUTHOR>G.Wagner</AUTHOR>
+        <TITLE>Design rationale for ruleml: A markup language for semantic web rules</TITLE>
+        <PUBLISHER>SWWS</PUBLISHER>
+        <START_PAGE>381</START_PAGE>
+        <END_PAGE>401</END_PAGE>
+        <PUBLISHEDYR>2001</PUBLISHEDYR>
+    </ARTICLE>
+
+    <UNPUBLISHED>
+        <AUTHOR>M.G. Buscemi</AUTHOR>
+        <AUTHOR>L. Ferrari</AUTHOR>
+        <AUTHOR>C. Moiso</AUTHOR>
+        <AUTHOR>U. Montanari</AUTHOR>
+        <TITLE>Constraint-based policy negotiation and enforcement for telco services</TITLE>
+        <PUBLISHEDYR>2007</PUBLISHEDYR>
+    </UNPUBLISHED>
+
+    <WEBSITE>
+        <AUTHOR>J. Schlimmer</AUTHOR>
+        <TITLE>Web services policy 1.2 – framework (WS-Policy)</TITLE>
+        <INSPECTIONDATE> 10 Apr 2006</INSPECTIONDATE>
+        <URL>http://www.w3.org/Submission/WS-Policy/</URL>
+    </WEBSITE>
+
+    <ARTICLE>
+        <AUTHOR>F. Kamoun</AUTHOR>
+        <TITLE>A roadmap towards the convergence of business process management and service oriented architecture</TITLE>
+        <JOURNAL>Ubiquity</JOURNAL>
+        <VOLUME>8</VOLUME>
+        <ISSUENO>14</ISSUENO>
+        <PUBLISHEDYR>2007</PUBLISHEDYR>
+        <PUBLISHER>ACM Press</PUBLISHER>
+    </ARTICLE>
+
+</BIBLIOGRAPHY>
